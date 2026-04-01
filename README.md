@@ -22,7 +22,6 @@ Useful bash one-liners useful for bioinformatics (and [some, more generally usef
 ## Sources
 
 * <http://gettinggeneticsdone.blogspot.com/2013/10/useful-linux-oneliners-for-bioinformatics.html#comments>
-* <http://sed.sourceforge.net/sed1line.txt>
 * <https://github.com/lh3/seqtk>
 * <http://lh3lh3.users.sourceforge.net/biounix.shtml>
 * <http://genomespot.blogspot.com/2013/08/a-selection-of-useful-bash-one-liners.html>
